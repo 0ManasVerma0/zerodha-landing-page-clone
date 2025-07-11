@@ -72,7 +72,8 @@ button{
     background-color: #387ed1;
     border: none;
     border-radius: 5px;
-    font-weight: 600;
+    font-weight: 400;
     width: 200px;
     height: 45px;
+    font-size: 18px;
 }
